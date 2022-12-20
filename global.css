@@ -1,0 +1,14 @@
+:root {
+  /* fonts */
+  --headings-h5-semi-bold: "Noto Sans";
+
+  /* font sizes */
+  --button-text-b2-semi-bold-size: 14px;
+  --headings-h5-semi-bold-size: 20px;
+
+  /* Colors */
+  --primary-white: #fff;
+  --primary-primary-100: #0f8040;
+  --neutral-neutral-80: #4d4d4d;
+  --tertiary-yellow-p-10: #fffce5;
+}
